@@ -112,3 +112,12 @@ logistics-analytics-project/
 │
 └── README.md
 ```
+---
+
+## 🌟 About Me
+
+Hi there! I'm **Dinesh Kumawat**. I’m a data analyst with hands-on experience in SQL, Python, Excel, Power BI, and Tableau, and a strong interest in solving real business problems using boring raw_data.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[LinkedIn](https://www.linkedin.com/in/dineshkumawat1608/)
