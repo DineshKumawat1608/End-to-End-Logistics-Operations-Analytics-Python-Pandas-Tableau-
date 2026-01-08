@@ -36,10 +36,6 @@ Analyze logistics operations data to generate useful insights that support **bus
 - **Data Transformation:**  
   Join and reshape data to create clean datasets for analysis and visualization
 
-- **Scope:**  
-  Focus on analysis and reporting  
-  *(Data warehousing and data engineering are not included)*
-
 - **Tools Used:**  
   Python (Pandas, NumPy, Matplotlib/Seaborn), Tableau
 
